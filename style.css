@@ -1,0 +1,33 @@
+*{
+	font-family: sans-serif;
+}
+
+form{
+	padding: 10px;
+}
+
+.form-head{
+	width: 100%;
+	height: 40px;
+	border-radius: 10px 10px 0 0;
+	background-color: orange;
+}
+
+.form-title{
+	text-align: center;
+	font-weight: 400;
+}
+
+.valid-form{
+	width: 300px;
+	height: 350px;
+	border-radius: 10px;
+	box-shadow: 5px 5px 15px;
+}
+
+.submit{
+	border: 0;
+	border-radius: 0;
+	height: 30px;
+	width: 120px;
+}
